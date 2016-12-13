@@ -9,5 +9,6 @@ this.shipping =s;
 }
 
 //Create your three test items below this comment.
-myItem = new Item ("NHL" ,65,1)
-VincentItem = new Item
+var mygame = newItem ("NHL", 65,1)
+var mytv = newItem ("TV", 1000,5)
+var myheadset = newItem ("Headset", 25,2)
